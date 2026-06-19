@@ -24,5 +24,9 @@ func inputFromConsole() {
 	fmt.Printf("Addition: %d\n", num1 + num2)
 	fmt.Printf("Subtraction: %d\n", num1 - num2)
 	fmt.Printf("Multiplecation: %d\n", num1 * num2)
+<<<<<<< HEAD
 	fmt.Printf("Division: %f\n", float64(num1 / num2))
+=======
+	fmt.Printf("Division: %f\n", num1 / num2)
+>>>>>>> a2bda8c34bd6211103ff9fc5f6f2cccbc9b7f6ef
 }
